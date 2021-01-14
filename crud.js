@@ -1,4 +1,3 @@
-// for reading we need some data to be present in our html
 // for updating we need some data to be present in our js file (array,object,etc)
 //for deleting we have a function delItem,for adding we have addingElement
 //items is the array we have created 
